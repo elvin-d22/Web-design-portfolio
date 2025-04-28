@@ -12,7 +12,6 @@ A curated selection of real-estate web pages I designed and built. Each project 
 Floor-plan gallery for Berkeley Homes in the Painted Prairie community.  
 - **Highlights:**  
   - Interactive plan cards with quick-view modal  
-  - Sticky “Schedule a Tour” CTA for conversions  
   - Compressed images + lazy-loading for page-speed  
 - **Tools:** WordPress, Elementor Pro, custom CSS/JS  
 
@@ -36,7 +35,6 @@ Central hub showcasing Highland Homes’ models across multiple Fort Bend commun
 SEO-rich city page attracting home-shoppers in Rancho Cucamonga.  
 - **Highlights:**  
   - Market stats, school zones, neighborhood maps  
-  - Sticky lead-capture forms + calendly widget  
   - Consistent branding for local REALTOR®  
 - **Tools:** WordPress, Elementor Pro, custom CSS/JS  
 
@@ -82,5 +80,5 @@ Educational guide that positions the agent as a top-tier listing specialist.
 WordPress • Elementor Pro • Wix Editor + Velo • Custom CSS/JS • Responsive Design • On-Page SEO
 
 ## 📫 Get in Touch
-- 📧 [your-email@example.com](mailto:your-email@example.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 [elvin.duka@gmail.com](mailto:elvin.duka@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/elvin-duka-2a4970356/)
